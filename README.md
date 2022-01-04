@@ -1,7 +1,13 @@
-# Nordzy-Cursors
+# Radioactive-nord
 <p align="center">
 	<img src="./art/logo.png" alt="Nordzy-cursors logo">
 </p>
+<p align="center">
+	<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/alvatip/Radioactive-nord/total?color=brightgreen">
+	<img alt="GitHub" src="https://img.shields.io/github/license/alvatip/Radioactive-nord?color=blue">
+	<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/alvatip/Radioactive-nord?color=9cf">
+</p>
+
 
 ## Preview
 
@@ -37,6 +43,12 @@ For system-wide installation:
 tar -zxvf Radioactive-nord.tar.gz -C /usr/share/icons/
 tar -zxvf Radioactive-white.tar.gz -C /usr/share/icons/
 ```
+### Also available on Pling
+<p align="left">
+  <a href="https://www.pling.com/p/1677966/" >
+    <img title="Radioactive-nord Pling Store" width="25%" src="https://imgur.com/VxSgrWw.png">
+  </a>
+</p>
 
 ### Set the cursor theme
 There are various way to set this (or another) cursor theme.</br>
@@ -61,7 +73,7 @@ If you have any issues, report them [here](https://github.com/alvatip/Radioactiv
 ##  How can I help ?
 
 * By giving a **star** or **follow** on GitHub.
-* By **rating** it on Pling
+* By **rating** it on [Pling](https://www.pling.com/p/1677966/)
 
 ## Licence
 

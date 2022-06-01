@@ -1,6 +1,6 @@
 ; Cursors made by alvatip
 ; < https://github.com/alvatip >
-; < https://github.com/alvatip/Sunity-cursors >
+; < https://github.com/alvatip/Radioactive-nord >
 
 [Version]
 signature="$CHICAGO$"
@@ -62,8 +62,8 @@ dnd-move.cur
 [Scheme.Txt]
 
 [Strings]
-CUR_DIR       = "Cursors\sunity"
-SCHEME_NAME   = "Sunity Cursors"
+CUR_DIR       = "Cursors\radioactive-nord"
+SCHEME_NAME   = "Radioactive-nord cursors"
 pointer       = "left_ptr.cur"
 help          = "help.cur"
 work          = "progress.ani"
